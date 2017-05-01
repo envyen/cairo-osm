@@ -8,4 +8,6 @@ Access Open street map from cairo
 
 `./cai-osm <latitude> <longitude> <zoom>`
 
+#### Output
 
+![Output](https://github.com/envyen/cairo-osm/blob/master/output.png)
